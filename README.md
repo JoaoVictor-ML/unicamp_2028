@@ -67,3 +67,7 @@ unicamp_2028/
 ├── script.js
 │
 └── README.md
+```
+
+## Visualizar Progresso
+[Clique aqui para acessar o Study Tracker](https://joaovictor-ml.github.io/unicamp_2028/)
